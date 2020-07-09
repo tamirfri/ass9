@@ -1,6 +1,6 @@
 ![screenshot](screenshot.png "screenshot")
 
-```docker
+```sql
 FROM python:alpine
 
 WORKDIR /usr/src/app
