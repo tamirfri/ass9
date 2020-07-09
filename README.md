@@ -1,6 +1,6 @@
 ![screenshot](screenshot.png "screenshot")
 
-```sql
+```bash
 FROM python:alpine
 
 WORKDIR /usr/src/app
